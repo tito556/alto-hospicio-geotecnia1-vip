@@ -1,0 +1,46 @@
+# Geotecnia1 — Alto Hospicio
+
+> Geotechnical engineering services in Alto Hospicio, Chile.
+
+## Services
+- [Anclajes](https://alto-hospicio.geotecnia1.vip/anclajes/)
+- [Calicatas Exploratorias](https://alto-hospicio.geotecnia1.vip/calicatas-exploratorias/)
+- [Cbr Vial](https://alto-hospicio.geotecnia1.vip/cbr-vial/)
+- [Cimentaciones](https://alto-hospicio.geotecnia1.vip/cimentaciones/)
+- [Cimentaciones Superficiales](https://alto-hospicio.geotecnia1.vip/cimentaciones-superficiales/)
+- [Columnas Grava](https://alto-hospicio.geotecnia1.vip/columnas-grava/)
+- [Densidad Cono Arena](https://alto-hospicio.geotecnia1.vip/densidad-cono-arena/)
+- [Ensayo Triaxial](https://alto-hospicio.geotecnia1.vip/ensayo-triaxial/)
+- [Estabilidad Taludes](https://alto-hospicio.geotecnia1.vip/estabilidad-taludes/)
+- [Excavaciones Profundas](https://alto-hospicio.geotecnia1.vip/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://alto-hospicio.geotecnia1.vip/excavaciones-subterraneo/)
+- [Exploracion](https://alto-hospicio.geotecnia1.vip/exploracion/)
+- [Geofisica](https://alto-hospicio.geotecnia1.vip/geofisica/)
+- [Geotecnia Vial](https://alto-hospicio.geotecnia1.vip/geotecnia-vial/)
+- [Granulometria](https://alto-hospicio.geotecnia1.vip/granulometria/)
+- [Grouting](https://alto-hospicio.geotecnia1.vip/grouting/)
+- [Laboratorio In Situ](https://alto-hospicio.geotecnia1.vip/laboratorio-in-situ/)
+- [Laboratorio Lab](https://alto-hospicio.geotecnia1.vip/laboratorio-lab/)
+- [Limites Atterberg](https://alto-hospicio.geotecnia1.vip/limites-atterberg/)
+- [Losa De Cimentacion](https://alto-hospicio.geotecnia1.vip/losa-de-cimentacion/)
+- [Masw Vs30](https://alto-hospicio.geotecnia1.vip/masw-vs30/)
+- [Mejoramiento](https://alto-hospicio.geotecnia1.vip/mejoramiento/)
+- [Microzonificacion Sismica](https://alto-hospicio.geotecnia1.vip/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://alto-hospicio.geotecnia1.vip/monitoreo-excavaciones/)
+- [Pavimento Flexible](https://alto-hospicio.geotecnia1.vip/pavimento-flexible/)
+- [Pavimento Rigido](https://alto-hospicio.geotecnia1.vip/pavimento-rigido/)
+- [Permeabilidad Campo](https://alto-hospicio.geotecnia1.vip/permeabilidad-campo/)
+- [Placa De Carga](https://alto-hospicio.geotecnia1.vip/placa-de-carga/)
+- [Resistividad Electrica Sev](https://alto-hospicio.geotecnia1.vip/resistividad-electrica-sev/)
+- [Sismica](https://alto-hospicio.geotecnia1.vip/sismica/)
+- [Sondaje Spt](https://alto-hospicio.geotecnia1.vip/sondaje-spt/)
+- [Taludes](https://alto-hospicio.geotecnia1.vip/taludes/)
+- [Tomografia Sismica](https://alto-hospicio.geotecnia1.vip/tomografia-sismica/)
+- [Vibrocompactacion](https://alto-hospicio.geotecnia1.vip/vibrocompactacion/)
+
+## Contact
+- Website: https://alto-hospicio.geotecnia1.vip/
+
+## About
+This site provides geotechnical engineering services in Alto Hospicio, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
